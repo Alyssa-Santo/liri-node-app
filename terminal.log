@@ -1,0 +1,63 @@
+
+=============== LOG ENTRY BEGIN ===============
+Wed Mar 29 2017 18:26:01 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/7.4.0/bin/node,/Users/alyssasantopadre/Desktop/LIRI-master/liri,mytweets
+ 
+DATA OUTPUT:
+1. Tweet: Happy Birthday to this girl!! shaunaturale Hope you have an amazing day sheep 🐑 you deserve it!! Love… http://t.co/Y4GrvJx4XP
+Created at: Fri Feb 28 16:15:45 +0000 2014 
+2. Tweet: fun day. ☺❄🏂 http://t.co/PxPXeRROwn
+Created at: Mon Feb 10 05:12:02 +0000 2014 
+3. Tweet: 🍻🍺🍹🍷#dayager #taiching #dizzybat vivalalucyx3 melpardun http://t.co/0nSELoA4Pe
+Created at: Mon May 06 01:45:40 +0000 2013 
+4. Tweet: #mustrong #springfest alapples shaunaturale laurenxclaire vivalalucyx3 @brookie_mcc http://t.co/fkMVJhasje
+Created at: Sun May 05 21:34:13 +0000 2013 
+5. Tweet: RT @santosteph: Happy National Sibling Day! 👭👬 #siblingday #blue #santosiblings @lyss_santo @BIGAL1247 michaelsantopadre http://t.co/evW ...
+Created at: Wed Apr 10 21:44:01 +0000 2013 
+6. Tweet: study time. 😫 📚☕ http://t.co/dVO4JuS95z
+Created at: Wed Apr 03 00:59:03 +0000 2013 
+7. Tweet: #redtour #taylorswift #edsheeran ❤❤ 😍 😘 http://t.co/wxnNPa3mXr
+Created at: Thu Mar 28 03:27:41 +0000 2013 
+8. Tweet: @melpardun ohh heey mel! Hahaa and i didnt know you liked them 😢 sorryy 😥😓
+Created at: Sat Feb 16 00:03:45 +0000 2013 
+9. Tweet: Happpyy Birthdaayyy @santosteph !! 🎉🎁 #25👍#sisterrrr 💕😘 http://t.co/5W9s7ho7
+Created at: Wed Feb 06 02:05:55 +0000 2013 
+10. Tweet: RT @lmSweetBrown: school tomorrow? Ain't nobody got time for that
+Created at: Mon Feb 04 05:42:55 +0000 2013 
+11. Tweet: RT @sorrynotsorryy: i like my super bowl lights like i like my weekend... blacked out #sorrynotsorryy
+Created at: Mon Feb 04 05:41:51 +0000 2013 
+12. Tweet: RT @santosteph: Happy National Bird Day! Feel better Kramer :/ @lyss_santo 🐦
+Created at: Sat Jan 05 20:54:03 +0000 2013 
+13. Tweet: @swiftttweets "Bacardi never did me wrong" #cheers #21 #home
+Created at: Sat Dec 22 06:27:02 +0000 2012 
+14. Tweet: from my love! 💐 #flowers #thebest http://t.co/IdEvEK2O
+Created at: Thu Dec 20 15:00:56 +0000 2012 
+15. Tweet: 🎉#21🍸#winterwonderland 🎄#greatfriends 💗 http://t.co/dE9yS6sm
+Created at: Mon Dec 10 21:02:56 +0000 2012 
+16. Tweet: @santosteph you bought curtains?? wow I'm impressed.
+Created at: Mon Dec 10 16:08:27 +0000 2012 
+17. Tweet: @VivaLaLucyx3 suchh a weirdddd movie! hahaha =]
+Created at: Wed Nov 28 14:35:53 +0000 2012 
+18. Tweet: @VivaLaLucyx3 hahaha it seems that nothing has changed since i leftt... miss youu! &lt;3
+Created at: Tue Nov 20 16:17:03 +0000 2012 
+19. Tweet: Soo happy to have the rest of my family surprisee visit me!! &lt;3
+Created at: Tue Nov 20 16:10:49 +0000 2012 
+20. Tweet: "I've got to admit it's getting better - it's getting better all the time."
+Created at: Sun Nov 04 20:05:27 +0000 2012 
+=============== LOG ENTRY END ===============
+ 
+=============== LOG ENTRY BEGIN ===============
+Wed Mar 29 2017 18:26:57 GMT-0400 (EDT)
+ 
+TERMINAL COMMANDS:
+$: /usr/local/Cellar/node/7.4.0/bin/node,/Users/alyssasantopadre/Desktop/LIRI-master/liri,spotify,jolene
+ 
+DATA OUTPUT:
+Artist: Dolly Parton
+Song: Jolene
+Preview Link: https://p.scdn.co/mp3-preview/3efb774956957eedf4ffff94e80d5f63dc2518cf?cid=null
+Album: Jolene
+=============== LOG ENTRY END ===============
+ 
